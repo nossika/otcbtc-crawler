@@ -1,0 +1,13 @@
+{
+  "name": "otc-crawler",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^0.13.0"
+  }
+}
